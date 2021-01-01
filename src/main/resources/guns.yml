@@ -1,0 +1,6 @@
+Guns:
+  1:
+    name: "test"
+    type: DIAMOND_BARDING
+    shootspeed: 15
+    Bullet: 30

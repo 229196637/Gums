@@ -1,0 +1,10 @@
+name: Gum
+version: ${project.version}
+main: snownetwork.snc.plugins.gum.gum.gun
+commands:
+  sgun:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin
+  gettype:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin
